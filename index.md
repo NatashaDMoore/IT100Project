@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Catastic
 
-You can use the [editor on GitHub](https://github.com/NatashaDMoore/IT100Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Having a rough day? Does the COVID Blues have you feeling down? We have the purrfect cure and it doesn't require a shot! Check out these cute cats and you'll be feeling better in no time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
