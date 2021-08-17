@@ -1,5 +1,3 @@
-# Cat Videos
-
 ### [HOME](https://natashadmoore.github.io/IT100Project/)
 
 
