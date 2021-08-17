@@ -6,6 +6,7 @@
 
 ## Compilation #2
 
-[![Funny Cat Fails | Funny Cat Compilation - FailArmy](https://i.ytimg.com/vi/DHfRfU3XUEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=DHfRfU3XUEo "Funny Cat Fails | Funny Cat Compilation - FailArmy")
+[![Funny Cat Fails Funny Cat Compilation](https://i.ytimg.com/vi/DHfRfU3XUEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=DHfRfU3XUEo "Funny Cat Fails Funny Cat Compilation")
+
 
 
