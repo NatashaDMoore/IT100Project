@@ -6,7 +6,7 @@
 
 ## Compilation #1
 
-[![THE BEST CUTE AND FUNNY CAT VIDEOS OF 2019!](https://i.ytimg.com/vi/QtC3Bo9B0yI/maxresdefault.jpg)](https://www.youtube.com/watch?v=QtC3Bo9B0yI "THE BEST CUTE AND FUNNY CAT VIDEOS OF 2019!")
+[![Best Scared And Startled Cats Compilation 2020](https://i.ytimg.com/vi/tPoET7ugI-w/maxresdefault.jpg)](https://www.youtube.com/watch?v=tPoET7ugI-w "Best Scared And Startled Cats Compilation 2020")
 
 
 
@@ -18,6 +18,5 @@
 
 ## Compilation #3
 
-[![Best Scared And Startled Cats Compilation 2020](https://i.ytimg.com/vi/tPoET7ugI-w/maxresdefault.jpg)](https://www.youtube.com/watch?v=tPoET7ugI-w "Best Scared And Startled Cats Compilation 2020")
-
+[![THE BEST CUTE AND FUNNY CAT VIDEOS OF 2019!](https://i.ytimg.com/vi/QtC3Bo9B0yI/maxresdefault.jpg)](https://www.youtube.com/watch?v=QtC3Bo9B0yI "THE BEST CUTE AND FUNNY CAT VIDEOS OF 2019!")
 
