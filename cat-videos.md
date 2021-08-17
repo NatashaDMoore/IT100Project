@@ -2,6 +2,7 @@
 
 ## Compilation #1
 
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/QtC3Bo9B0yI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+[![THE BEST CUTE AND FUNNY CAT VIDEOS OF 2019!](https://i.ytimg.com/vi/QtC3Bo9B0yI/maxresdefault.jpg)](https://www.youtube.com/watch?v=QtC3Bo9B0yI "THE BEST CUTE AND FUNNY CAT VIDEOS OF 2019!")
+
 
 
