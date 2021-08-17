@@ -5,4 +5,6 @@ Having a rough day? Does the COVID Blues have you feeling down? We have the purr
 
 
 ### [Cat Videos](https://natashadmoore.github.io/IT100Project/cat-videos)
+### [Cute Cat Pictures](https://natashadmoore.github.io/IT100Project/cute-cat-pictures/)
+
 
